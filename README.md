@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sophiya Pantha</h1>
+<h3 align="center">BSc CSIT 5th Semester | Nepathya College of Management & IT</h3>
 
-<!--
-**Sophiyapantha/Sophiyapantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+👋 Hi, I'm **Sophiya Pantha**, a passionate **BSc CSIT student** currently in **5th Semester** at **Nepathya College**.  
+💻 I enjoy learning programming and building web projects.  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- Data Structures & Algorithms (DSA)
+
+---
+
+## 💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- Web development concepts
+- Building responsive projects
+
+---
+
+## 🚀 Goals
+- Become a better programmer
+- Contribute to open-source
+- Build real-world projects
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sophiyapantha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiyapantha&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=sophiyapantha&theme=tokyonight)
+
+---
+
+⭐ From [sophiyapantha](https://github.com/sophiyapantha)
