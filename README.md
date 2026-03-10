@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sophiya Pantha</h1>
-<h3 align="center">BSc CSIT 5th Semester | Nepathya College of Management & IT</h3>
+<h3 align="center">BSc CSIT 5th Semester | Nepathya College</h3>
 
 ---
 
